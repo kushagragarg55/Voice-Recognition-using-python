@@ -5,7 +5,9 @@ This project converts the voice using speech-recognition API and then prepares t
 https://www.kaggle.com/primaryobjects/voicegender
 
 <h3>ACCURACY ACHIEVED</h3>
-  LR:  0.6316287878787878
-  NB:  0.8494318181818182
-  svm:  0.9185606060606061
-  knn:  0.9185606060606061
+ <p> LR:  0.6316287878787878</p>
+ <p> NB:  0.8494318181818182</p>
+ <p> svm:  0.9185606060606061</p>
+ <p> knn:  0.9185606060606061</p>
+
+<h4>Youtube video, explaining the whole project: <h/4>
