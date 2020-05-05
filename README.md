@@ -10,4 +10,4 @@ https://www.kaggle.com/primaryobjects/voicegender
  <p> svm:  0.9185606060606061</p>
  <p> knn:  0.9185606060606061</p>
 
-<h4>Youtube video, explaining the whole project: <h/4>
+<h4>Youtube video, explaining the whole project: </h4> https://www.youtube.com/watch?v=IyfgeakOP8E&t=28s 
